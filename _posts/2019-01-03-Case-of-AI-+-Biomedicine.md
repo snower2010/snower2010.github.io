@@ -70,11 +70,16 @@ tags:
 ## 四. Drug discovery
 ### 4.0 综述
   [The rise of deep learning in drug discovery](https://github.com/snower2010/snower2010.github.io/blob/master/img/The%20rise%20of%20deep%20learning%20in%20drug%20discovery.pdf)
+  **CNN模型**
   ![Figure4.0.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/4.0.1.jpg)
+  
+  **VAE模型**
   ![Fig.4.0.2](https://github.com/snower2010/snower2010.github.io/blob/master/img/4.0.2.jpg)
+  
+  **RNN模型**
   ![Fig.4.0.3](https://github.com/snower2010/snower2010.github.io/blob/master/img/4.0.3.jpg)
   
-### 4.1 AtoNet
+### 4.1 AtomNet
   [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/AtomNet.pdf)
   
   **数据**: 分子的空间结构数据
