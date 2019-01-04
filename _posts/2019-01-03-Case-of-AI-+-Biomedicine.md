@@ -18,11 +18,11 @@ tags:
 
 [新闻报道](https://www.jiqizhixin.com/articles/2018-12-26)
 
-  数据：904个颅内出血的CT,包含五种类型
+  **数据**：904个颅内出血的CT,包含五种类型
   
-  模型：Ensemble model: VGG167, ResNet-508, Inception-v39 and
+  **模型**：Ensemble model: VGG167, ResNet-508, Inception-v39 and
 Inception-ResNet-v2
 
-  亮点：在测试集上面达到了98%的灵敏度和95%的精确度；同时添加了一个attention map用于特异的检测出血点
-  ![Figure1.1.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/1.1.1.jpg)
+  **亮点**：在测试集上面达到了98%的灵敏度和95%的精确度；同时添加了一个attention map用于特异的检测出血点
+  ![Figure1.1.1](img/1.1.1.jpg)
 
