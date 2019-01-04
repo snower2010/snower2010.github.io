@@ -43,13 +43,42 @@ tags:
    ![Figure1.3.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/1.3.1.jpg)
    
 ## 二. 组学数据类
-### 2.1 DeepVariant
 
-### 2.2 通过随机森林寻找腹泻中的病菌
-
+### 2.1 基于基因组数据通过随机森林寻找腹泻中的病菌
+  [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/Zoonotic%20Source%20Attribution%20of.pdf)
+  
+  [新闻报道](https://www.jiqizhixin.com/articles/2018-12-19-11)
+  
+  **数据**: 1,400多种沙门氏菌的基因组的序列
+  
+  **模型**: 随机森林做分类和特征提取
+  
+  **亮点**: 通过基因组进行分类，找到干扰源
+  
 ## 三. 身体其他类数据
-### 3.1 通过指甲判断检测身体状况
-
+  ### 3.1 通过指甲判断检测身体状况
+  [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/Wearable%20Nail%20Deformation%20Sensing%20for%20Behavioral%20and%20Biomechanical%20Monitoring%20and%20Human-Computer%20Interaction.pdf)
+  
+  [新闻报道](https://www.jiqizhixin.com/articles/2018-12-28-20)
+  
+  **数据**: 通过可穿戴传感器采集指甲盖上面的信息
+  
+  **模型**: 传统机器学习方法，类似最近邻
+  
+  **亮点**: 可穿戴设备的健康监测
+  
 ## 四. Drug discovery
-### 4.1 神经系统药物的Drug Discovery
-
+  ### 4.0 综述
+  [The rise of deep learning in drug discovery](https://github.com/snower2010/snower2010.github.io/blob/master/img/The%20rise%20of%20deep%20learning%20in%20drug%20discovery.pdf)
+  ![Figure4.0.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/4.0.1.jpg)
+  ![Fig.4.0.2](https://github.com/snower2010/snower2010.github.io/blob/master/img/4.0.2.jpg)
+  ![Fig.4.0.3](https://github.com/snower2010/snower2010.github.io/blob/master/img/4.0.3.jpg)
+  
+### 4.1 AtoNet
+  [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/AtomNet.pdf)
+  
+  **数据**: 分子的空间结构数据
+  
+  **模型**: 4层CNN模型
+  
+  **亮点**: 基于空间结构的drug discovery，准确率比较高
