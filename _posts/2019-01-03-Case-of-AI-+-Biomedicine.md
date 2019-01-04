@@ -24,5 +24,5 @@ tags:
 Inception-ResNet-v2
 
   **亮点**：在测试集上面达到了98%的灵敏度和95%的精确度；同时添加了一个attention map用于特异的检测出血点
-  ![Figure1.1.1](img/1.1.1.jpg)
+  ![Figure1.1.1](tree/master/img/1.1.1.jpg)
 
