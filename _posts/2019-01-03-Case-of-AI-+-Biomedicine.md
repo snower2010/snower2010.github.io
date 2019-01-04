@@ -56,7 +56,7 @@ tags:
   **亮点**: 通过基因组进行分类，找到干扰源
   
 ## 三. 身体其他类数据
-  ### 3.1 通过指甲判断检测身体状况
+### 3.1 通过指甲判断检测身体状况
   [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/Wearable%20Nail%20Deformation%20Sensing%20for%20Behavioral%20and%20Biomechanical%20Monitoring%20and%20Human-Computer%20Interaction.pdf)
   
   [新闻报道](https://www.jiqizhixin.com/articles/2018-12-28-20)
@@ -68,7 +68,7 @@ tags:
   **亮点**: 可穿戴设备的健康监测
   
 ## 四. Drug discovery
-  ### 4.0 综述
+### 4.0 综述
   [The rise of deep learning in drug discovery](https://github.com/snower2010/snower2010.github.io/blob/master/img/The%20rise%20of%20deep%20learning%20in%20drug%20discovery.pdf)
   ![Figure4.0.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/4.0.1.jpg)
   ![Fig.4.0.2](https://github.com/snower2010/snower2010.github.io/blob/master/img/4.0.2.jpg)
