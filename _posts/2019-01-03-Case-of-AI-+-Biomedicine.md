@@ -54,7 +54,8 @@ tags:
   **模型**: 随机森林做分类和特征提取
   
   **亮点**: 通过基因组进行分类，找到干扰源
-  
+### 2.2 通过VAE对转录组数据进行降维
+
 ## 三. 身体其他类数据
 ### 3.1 通过指甲判断检测身体状况
   [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/Wearable%20Nail%20Deformation%20Sensing%20for%20Behavioral%20and%20Biomechanical%20Monitoring%20and%20Human-Computer%20Interaction.pdf)
