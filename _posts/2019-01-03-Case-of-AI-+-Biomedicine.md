@@ -41,7 +41,18 @@ tags:
    **亮点**：分类精度比较高；同时结合了图像和突变的数据
    
    ![Figure1.3.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/1.3.1.jpg)
+
+### 1.4 通过OCT图像鉴别诊断眼部疾病
+  [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/2018.Cell.pdf)
+  
+  **数据**: 总共207，130个OCT图像
+  
+  **模型**：通过迁移学习，将imageNet的参数迁移到新数据上
+  
+  **亮点**: 数据量大；精确度很高，达到了95%；比较早的做医疗图像的文章，所以可以发表在cell上面
    
+  ![Fig.1.4.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/1.4.1.jpg) 
+  
 ## 二. 组学数据类
 
 ### 2.1 基于基因组数据通过随机森林寻找腹泻中的病菌
