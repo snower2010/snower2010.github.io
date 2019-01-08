@@ -53,6 +53,17 @@ tags:
    
   ![Fig.1.4.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/1.4.1.jpg) 
   
+### 1.5 通过面部图像诊断遗传疾病
+  [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/Identifying%20facial%20phenotypes%20of%20genetic%20disorders%20using%20deep%20learning.pdf)
+  [新闻报道](https://mp.weixin.qq.com/s?__biz=MzA3MzQyNjY1MQ==&mid=2652465617&idx=3&sn=10e81925507c0bc0314b33e968fa9379&chksm=84e2fa65b3957373c900632118eb9ed75023660e8c9ac347c7bd352d9efb7f09eb3cfc0aaec4&scene=0&xtrack=1#rd)
+  
+  **数据**: 超过17,000个图像；包含上百种遗传病
+  
+  **模型**：首先在Casia-WebFace数据上pretrain，然后在fune-tunning
+  
+  **亮点**: 数据量大；精确度很高；同时找了phenotype和genetype之间的关联
+   ![Fig.1.5.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/1.5.1.jpg)
+   
 ## 二. 组学数据类
 
 ### 2.1 基于基因组数据通过随机森林寻找腹泻中的病菌
