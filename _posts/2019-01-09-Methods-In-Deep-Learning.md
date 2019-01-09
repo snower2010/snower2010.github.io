@@ -15,7 +15,9 @@ tags:
 ** Layer Normaliztion
 
 相比于batch normalization
+
 batch是“竖”着来的，各个维度做归一化，所以与batch size有关系。
+
 layer是“横”着来的，对一个样本，不同的神经元neuron间做归一化。
 
 ![Figure](https://github.com/snower2010/snower2010.github.io/blob/master/img/Layer%20Normalization.png)
