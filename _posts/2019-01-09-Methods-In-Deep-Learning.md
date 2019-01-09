@@ -12,6 +12,6 @@ tags:
 ---
 总结一下自己学到的知识点
 
-**Layer Normaliztion
+** Layer Normaliztion
 
 ![Figure](https://github.com/snower2010/snower2010.github.io/blob/master/img/Layer%20Normalization.png)
