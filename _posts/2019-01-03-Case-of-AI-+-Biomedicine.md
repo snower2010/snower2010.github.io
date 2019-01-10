@@ -144,5 +144,5 @@ tags:
 ## 五. 其他
 ### 5.1 Nature medicine综述AI+医疗
   [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/The%20practical%20implementation%20of%20artificial%20intelligence%20technologies%20in%20medicine.pdf)
-  
+  ![Fig.5.1.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/5.1.1.jpg)
   
