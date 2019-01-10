@@ -63,7 +63,18 @@ tags:
   
   **亮点**: 数据量大；精确度很高；同时找了phenotype和genetype之间的关联
    ![Fig.1.5.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/1.5.1.jpg)
-   
+
+### 1.6 通过心电图数据监测心律失常
+  [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/Cardiologist-level%20arrhythmia%20detection%20and%20classification%20in%20ambulatory%20electrocardiograms%20using%20a%20deep%20neural%20network.pdf)
+  
+  [新闻报道](https://www.chainnews.com/articles/847671770585.htm)
+  
+  **数据**: 包含53549名患者的91232的心电图数据，分(1s)时间段切割
+  
+  **模型**: CNN网络，总共34层
+  
+  **亮点**: 首次对心电图构建了神经网络，达到了超过人类的精确度；心电图在医学中应用中很多，可以方便的智能检测或者智能监护
+  
 ## 二. 组学数据类
 
 ### 2.1 基于基因组数据通过随机森林寻找腹泻中的病菌
