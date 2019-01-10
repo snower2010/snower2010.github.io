@@ -140,3 +140,9 @@ tags:
   **模型**: 4层CNN模型
   
   **亮点**: 基于空间结构的drug discovery，准确率比较高
+
+## 五. 其他
+### 5.1 Nature medicine综述AI+医疗
+  [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/The%20practical%20implementation%20of%20artificial%20intelligence%20technologies%20in%20medicine.pdf)
+  
+  
