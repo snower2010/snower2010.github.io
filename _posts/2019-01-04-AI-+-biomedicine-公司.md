@@ -20,4 +20,6 @@ tags:
   [新闻报道](https://mp.weixin.qq.com/s?__biz=MzAwMDA5NTIxNQ==&mid=2649972148&idx=1&sn=e520bf7201e6318a5bcd4ace5f9389ae&chksm=82e9db34b59e52226fe7fe043f7e3edd5bede809521abb062d36bd11b4eeafcb13fb5b7dff76&scene=21#wechat_redirect)
     
   美国FDA批准了首款使用人工智能检测糖尿病患者视网膜病变的医疗设备IDx-DR上市。IDx-DR是首个获得市场营销授权可以提供筛查决策，而无需临床医生对图像或结果进行解读的医疗设备，这使得通常不参与眼科治疗的医生也能使用该设备。
-    
+ ### 部分公司总结
+ [新闻报道](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247488487&idx=1&sn=e02cc15eaefdc113a57d93b7e9c168dd&chksm=fdb68e70cac10766ce5a8107cc393c42cde9cf427ad87454396a417e62a0c732306a689f2fba&scene=0&xtrack=1#rd)
+ 
