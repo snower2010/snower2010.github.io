@@ -147,4 +147,9 @@ tags:
   [新闻报道](https://mp.weixin.qq.com/s?__biz=MzI5MDQzNjY2OA==&mid=2247490973&idx=1&sn=85e616485be03f3addbd864a24970087&chksm=ec1ebecedb6937d814fb748d283985f035a59133f23fd934c0d2465d4baf2cdcfbb53f9e8e58&scene=0&xtrack=1#rd)
   
   ![Fig.5.1.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/5.1.1.jpg)
+### 5.2 Nature medicine 综述AI医疗
+  [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/A%20guide%20to%20deep%20learning%20in%20healthcare.pdf)
+  
+  [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/High-performance%20medicine%20the%20convergence%20of%20human%20and%20artificial%20intelligence.pdf)
+  
   
