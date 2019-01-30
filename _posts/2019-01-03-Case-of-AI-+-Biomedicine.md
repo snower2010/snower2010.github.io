@@ -38,7 +38,7 @@ tags:
    
    **亮点**：通过对284335名患者的数据进行深度学习的算法研究，研究人员能以惊人的高准确度预测病人的心血管疾病风险因素
    
-    ![Figure1.2.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/1.2.1.jpg)
+   ![Figure1.2.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/1.2.1.jpg)
 ### 1.3. 通过病理图片诊断非小细胞癌症，以及通过病理图片预测基因突变类型 （Inception V3）
    
    [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/Classification%20and%20mutation%20prediction%20from.pdf)
