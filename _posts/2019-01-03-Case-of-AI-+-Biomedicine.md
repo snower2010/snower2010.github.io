@@ -85,7 +85,7 @@ tags:
   **亮点**: Andrew NG的工作；首次对心电图构建了神经网络，达到了超过人类的精确度；心电图在医学中应用中很多，可以方便的智能检测或者智能监护
 
 ### 1.7 人工智能的心电图筛查心脏收缩功能障碍 （梅奥诊所）
-  [文献]（https://github.com/snower2010/snower2010.github.io/blob/master/img/Screening%20for%20cardiac%20contractile%20dysfunction%20using%20an%20artificial%20intelligence%E2%80%93enabled%20electrocardiogram.pdf）
+ [文献]（https://github.com/snower2010/snower2010.github.io/blob/master/img/Screening%20for%20cardiac%20contractile%20dysfunction%20using%20an%20artificial%20intelligence%E2%80%93enabled%20electrocardiogram.pdf）
   
   [新闻报道](https://mp.weixin.qq.com/s?__biz=MzU1MzMxMzcyMg==&mid=2247488480&idx=1&sn=f370a78537f944c457a88794bd4e6e23&chksm=fbf5e735cc826e23b6949349efb8255dd5c9f4f85eb519958e1225cad1f41c111947a3348bc1&mpshare=1&scene=1&srcid=0109LUrnK69V1BT1q2DptPpd#rd)
   
