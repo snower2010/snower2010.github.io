@@ -116,7 +116,7 @@ tags:
    
    **模型**: genetic variants来预测brain disease phenotypes
    
-## 三. 身体其他类数据
+## 三. 其他类数据
 ### 3.1 通过指甲判断检测身体状况
   [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/Wearable%20Nail%20Deformation%20Sensing%20for%20Behavioral%20and%20Biomechanical%20Monitoring%20and%20Human-Computer%20Interaction.pdf)
   
@@ -127,6 +127,18 @@ tags:
   **模型**: 传统机器学习方法，类似最近邻
   
   **亮点**: 可穿戴设备的健康监测
+
+### 3.2 谷歌通过电子病历做预测
+
+  [新闻报道](https://www.leiphone.com/news/201801/geD2NyxSigWBUmHB.html)
+  
+  [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/Scalable%20and%20accurate%20deep%20learning%20with%20electronic%20health.pdf)
+  
+  **数据**: 114,003个病人的216,221条住院记录
+  
+  **模型**: 首先将数据投影到低维空间，接下来分别采用了LSTM,前馈神经网络和决策树
+  
+  **亮点**：首先用了FHIR组件将数据标准化，并在CSF和UChicago的电子病历数据上，用深度学习模型预测四件事情：住院期间的死亡风险、规划之外的再住院风险、长时间的住院天数以及出院的疾病诊断。 
   
 ## 四. Drug discovery
 ### 4.0 综述
