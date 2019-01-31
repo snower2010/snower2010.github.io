@@ -139,6 +139,7 @@ tags:
   **模型**: 首先将数据投影到低维空间，接下来分别采用了LSTM,前馈神经网络和决策树
   
   **亮点**：首先用了FHIR组件将数据标准化，并在CSF和UChicago的电子病历数据上，用深度学习模型预测四件事情：住院期间的死亡风险、规划之外的再住院风险、长时间的住院天数以及出院的疾病诊断。 
+  ![Figure.3.2.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/3.2.1.jpg)
   
 ## 四. Drug discovery
 ### 4.0 综述
