@@ -133,7 +133,18 @@ tags:
   **模型**: 随机森林做分类和特征提取
   
   **亮点**: 通过基因组进行分类，找到干扰源
+  
 ### 2.2 通过VAE对转录组数据进行降维
+  
+  [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/VAE%20For%20Single%20Cell.pdf)
+  
+  **数据**: TCGA下载的转录组数据
+  
+  **模型**: 通过一层/两层的VAE模型将转录组数据降维，并进而进行分类，找到对应的coding的的基因
+  
+  **亮点**: 提供了一个转录组学降维的学习框架
+  
+  ![Figure.2.2.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/2.2.1.jpg)
 
 ### 2.3 构建人类大脑的多组学数据
    [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/Comprehensive%20functional%20genomic%20resource%20and%20integrative%20model%20for%20the%20human%20brain.pdf)
