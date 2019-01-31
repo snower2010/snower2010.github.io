@@ -107,6 +107,18 @@ tags:
   
   ![Figure.1.8.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/1.8.1.jpg)
 
+### 1.9 针对X光胸片诊断
+
+  [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/Learning%20what%20to%20look%20in%20chest%20X-rays%20with%20a%20recurrent%20visual%20attention%20model.pdf)
+  
+  **数据**: 47万张胸片X光图像和对应的诊断报告
+  
+  **模型**：结合CNN和LSTM的模型，学习X光图像和诊断报告的关系，将X光片分为了四种等级：危险、紧急、不紧急、正常
+  
+  **亮点**: AI报告的阴性预测率高达99%，也就是说，AI基本不会漏掉有问题的胸片，并确保这些有问题的胸片优先被医生查看。在AI系统的帮助下，紧急状况的胸片病例处理时间从11.2天缩短至2.7天，所需时间仅为原来的1/4。
+  
+  ![Figure.1.9.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/1.9.1.jpg)
+
 ## 二. 组学数据类
 
 ### 2.1 基于基因组数据通过随机森林寻找腹泻中的病菌
