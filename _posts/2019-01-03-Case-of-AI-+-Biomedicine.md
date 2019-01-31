@@ -96,7 +96,9 @@ tags:
   **亮点**：便宜快速的检测心脏疾病；数据量大
 
 ### 1.8 通过病理图像鉴别转移性乳腺癌
-
+  
+  [新闻报道](https://mp.weixin.qq.com/s?__biz=MzU3MTM5OTk2OA==&mid=2247485830&idx=1&sn=8bcd2e9aeba9a8844db131b732b28752&chksm=fce183c9cb960adf535f395d30377525c807072ab829018ad911a48328980be13d0de8a3e3f6&scene=0#rd)
+  
   [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/Development%20and%20Validation%20of%20a%20Deep%20Learning%20Algorithm%20for%20Improving%20Gleason%20Scoring%20of%20Prostate%20Cancer.pdf)
   
   **数据**: 399张淋巴结图片
