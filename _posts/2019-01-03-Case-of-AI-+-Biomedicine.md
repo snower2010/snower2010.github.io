@@ -94,7 +94,19 @@ tags:
   **模型**：CNN网络
   
   **亮点**：便宜快速的检测心脏疾病；数据量大
+
+### 1.8 通过病理图像鉴别转移性乳腺癌
+
+  [文献](https://github.com/snower2010/snower2010.github.io/blob/master/img/Development%20and%20Validation%20of%20a%20Deep%20Learning%20Algorithm%20for%20Improving%20Gleason%20Scoring%20of%20Prostate%20Cancer.pdf)
   
+  **数据**: 399张淋巴结图片
+  
+  **模型**: Inception V3
+  
+  **亮点**: 达到了比较高的准确度99.3%；并且可以识别出肿瘤区域
+  
+  [Figure.1.8.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/1.8.1.jpg)
+
 ## 二. 组学数据类
 
 ### 2.1 基于基因组数据通过随机森林寻找腹泻中的病菌
