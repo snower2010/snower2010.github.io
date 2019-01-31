@@ -105,7 +105,7 @@ tags:
   
   **亮点**: 达到了比较高的准确度99.3%；并且可以识别出肿瘤区域
   
-  [Figure.1.8.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/1.8.1.jpg)
+  ![Figure.1.8.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/1.8.1.jpg)
 
 ## 二. 组学数据类
 
