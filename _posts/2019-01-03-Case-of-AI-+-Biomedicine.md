@@ -177,7 +177,23 @@ tags:
   
   **亮点**：首先用了FHIR组件将数据标准化，并在CSF和UChicago的电子病历数据上，用深度学习模型预测四件事情：住院期间的死亡风险、规划之外的再住院风险、长时间的住院天数以及出院的疾病诊断。 
   ![Figure.3.2.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/3.2.1.jpg)
+
+### 3.3 AI儿科医生
+
+  [新闻报道](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652038359&idx=2&sn=4220bfce9002ffc9e69dd980d8f929c3&chksm=f1219026c65619301bd1fb455db0362fcf4c2f9a11ded326c8d7c629e05293ee45844e072338&mpshare=1&scene=1&srcid=0213EJfk1rstSooo6ZD6YxAm&key=89d826c18bff14a7e05566d30c2ec8e36d473744e1130b49800647c93173a78f8bfefc59daacac875d00935f3ac3ecd341d7fe109d7e4a45ba4e0707cf733d85839fb563f5a0d2732c1925234041bfea&ascene=1&uin=MTM5NDg5NDAwMg%3D%3D&devicetype=Windows+10&version=62060720&lang=zh_CN&pass_ticket=euCXSVdjPlXheziyRMP0XH7cUzX5g2%2BCgx0uU9eI96NdfjEbn6VxiBt%2BrsSdCyCs)
   
+  [Paper](https://github.com/snower2010/snower2010.github.io/blob/master/img/Evaluation%20and%20accurate%20diagnoses%20of%20pediatric%20diseases%20using%20artificial%20intelligence.pdf)
+  
+  **数据**: 1362559名儿科患者就诊于某大型转诊中心的10160万个数据点
+  
+  ![Figure.3.3.1](https://github.com/snower2010/snower2010.github.io/blob/master/img/3.3.1.jpg)
+  
+  **模型**: LSTM模型
+  
+  ![Figure.3.3.2](https://github.com/snower2010/snower2010.github.io/blob/master/img/3.3.2.jpg)
+
+ **亮点**: 准确度和初级儿科医生相当，AI程序诊断出呼吸道感染和鼻窦炎准确率为95％
+ 
 ## 四. Drug discovery
 ### 4.0 综述
   [The rise of deep learning in drug discovery](https://github.com/snower2010/snower2010.github.io/blob/master/img/The%20rise%20of%20deep%20learning%20in%20drug%20discovery.pdf)
